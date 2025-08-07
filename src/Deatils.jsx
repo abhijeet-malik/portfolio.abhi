@@ -134,7 +134,7 @@ export const education = [
     school: "Odisha University Of Technology And Research, Bhuabaneswar",
     date: "Sept 2020 - July 2024",
     grade: "7.7 CGPA",
-    desc: "I have completed my Master's degree (MCA) in Computer Applications from GLA University, Mathura. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
+    desc: "I hold a Bachelor of Technology (B.Tech) degree in Electrical Engineering from Odisha University of Technology and Research (OUTR), Bhubaneswar. Throughout my academic journey, I explored both core engineering subjects and modern interdisciplinary areas. During my B.Tech, I gradually developed an interest in technology and software development, which led me to learn web development and programming alongside my coursework .",
     degree: "Bachelor In Technology- B.Tech",
   },
   {
@@ -143,17 +143,17 @@ export const education = [
     school: "Fakir Mohan Higher Secondary Scool, Balasore",
     date: "Sept 2018 - Aug 2020",
     grade: "50%",
-    desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-    degree: "Bachelor of Science - BSC (Computer Science)",
+    desc: "I completed my 12th grade in the Science stream, where I developed a strong interest in mathematics, physics, and problem-solving.",
+    degree: "ISC - 12th(CHSE)",
   },
   {
     id: 2,
     img: bse,
-    school: "M.B.N High Scool, Gopalpur",
+    school: "M.B Nodal High Scool, Gopalpur",
     date: "Apr 2016 - March 2018",
     grade: "70.23%",
-    desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-    degree: "CBSE(XII) - PCM with Computer Science",
+    desc: "I began my academic journey in an Odia medium school, where I completed my Class 10th with top rank in my class. Studying in my native language helped me build a strong foundation in core subjects like mathematics and science.",
+    degree: "BSE- 10th",
   },
 ];
 
