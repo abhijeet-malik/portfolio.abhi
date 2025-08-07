@@ -3,11 +3,3 @@
 html {
   scroll-behavior: smooth;
 }
-
-.profile-image {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #ccc; /* optional border */
-}
